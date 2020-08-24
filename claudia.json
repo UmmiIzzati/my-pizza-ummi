@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "my-pizza-ummi-executor",
+    "name": "my-pizza-ummi",
+    "region": "ap-southeast-1"
+  },
+  "api": {
+    "id": "1ml7xes7z2",
+    "module": "api"
+  }
+}
