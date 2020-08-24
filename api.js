@@ -3,7 +3,7 @@
 const getPizzas = require('./handlers/get-pizzas')
 const createOrder = require('./handlers/create-order')
 const updateOrder = require('./handlers/update-order')
-const getOrder = require('./handlers/pizza-order')
+const getOrder = require('./handlers/pizza-orders')
 
 const Api = require('claudia-api-builder');
 const api = new Api();
